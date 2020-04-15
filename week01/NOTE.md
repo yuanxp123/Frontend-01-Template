@@ -10,6 +10,7 @@ Undefined
 Object
 Symbol
 内部类型
+
 	The Reference Specification Type
 	The List Specification Type
 	The Completion Specification Type
