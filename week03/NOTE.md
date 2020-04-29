@@ -159,23 +159,3 @@ for(var i = 0; i < 10; i ++){
 
 }
 
-
-Completion
-
-Completion Record
-[[type]]: normal, break, continue, return or throw
-[[value]]: Types
-[[target]]: label
-作用域
-Block BlockStatement
-Iteration 作用域在block之外
-for in
-for of generate
-声明 1、有var一定要写在function范围内 2、不要在类似with的block中写var 
-2、对象
-ObjectAPI/Grammar
-{}.[] Object.defineProperty
-Object.create / Object.setPrototypeOf / Object.getPrototypeOf
-new / class / extends
-new / function / prototype
-Function Object
