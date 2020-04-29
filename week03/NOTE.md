@@ -1,5 +1,6 @@
 # 每周总结可以写在这里
 1、JS浮点数
+```js
 function check(zero){
 
 	if(1/zero === Infinity){
