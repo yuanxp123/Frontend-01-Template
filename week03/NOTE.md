@@ -41,6 +41,8 @@ Boxing & Unboxing
 String Number Boolean Symbol undefined null
 7中基本类型 中的4种可以包装成对象
 // super的使用
+```js
+
 class Parent{
 
 	constructor(){
